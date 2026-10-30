@@ -1,0 +1,281 @@
+{
+  "metadata": {
+    "institution": "Greenfield College of Technology & Sciences",
+    "description": "Official FAQ Knowledge Base for the AI Assistant",
+    "version": "1.0.0",
+    "last_updated": "2025-01-15",
+    "disclaimer": "This is demonstration data. Replace with official verified documents before production use."
+  },
+  "faqs": [
+    {
+      "id": "ADM001",
+      "category": "Admissions",
+      "question": "What is the admission procedure for undergraduate programs?",
+      "answer": "Admission to undergraduate programs at Greenfield College follows a merit-based process. Students must: (1) Complete the online application form at admissions.greenfieldcollege.edu, (2) Submit 10th and 12th grade mark sheets, (3) Provide transfer certificate and migration certificate, (4) Appear for a college entrance test or submit valid entrance exam scores (JEE/NEET/SAT), (5) Attend a counselling session. Shortlisted candidates receive provisional admission letters via email.",
+      "keywords": ["admission", "undergraduate", "procedure", "apply", "application", "how to join", "enroll", "enrollment"],
+      "source_id": "SRC001",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "ADM002",
+      "category": "Admissions",
+      "question": "What documents are required for admission?",
+      "answer": "The following documents are required for admission: (1) Completed application form, (2) 10th Standard Mark Sheet and Certificate, (3) 12th Standard Mark Sheet and Certificate, (4) Transfer Certificate (TC) from previous institution, (5) Migration Certificate (if applicable), (6) Caste/Category Certificate (SC/ST/OBC candidates), (7) Income Certificate (for scholarship applicants), (8) Passport-size photographs (6 copies), (9) Aadhar Card / Government ID proof, (10) Valid entrance exam scorecard (JEE/NEET/SAT/CUET).",
+      "keywords": ["documents", "required", "admission", "certificates", "mark sheet", "transfer certificate", "aadhar"],
+      "source_id": "SRC001",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "ADM003",
+      "category": "Admissions",
+      "question": "What are the admission deadlines?",
+      "answer": "Admission deadlines for the academic year 2025–26: Online Application Opens: March 1, 2025 | Application Deadline (Round 1): May 31, 2025 | Entrance Test: June 15, 2025 | Result Declaration: June 25, 2025 | Document Verification: July 1–10, 2025 | Fee Payment Deadline: July 15, 2025 | Classes Commence: August 1, 2025. Note: Dates are subject to change. Always verify at the official admissions portal.",
+      "keywords": ["deadline", "last date", "admission date", "when to apply", "schedule", "timeline", "2025"],
+      "source_id": "SRC001",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "ADM004",
+      "category": "Admissions",
+      "question": "How can I contact the admission office?",
+      "answer": "Admissions Office Contact: Address: Room 101, Administrative Block, Greenfield College of Technology & Sciences, Greenfield Nagar, City – 600001. Phone: +91-44-2800-1234 | Mobile: +91-98765-43210 | Email: admissions@greenfieldcollege.edu | Office Hours: Monday to Friday, 9:00 AM – 5:00 PM | Website: admissions.greenfieldcollege.edu. For urgent queries, WhatsApp: +91-98765-43210.",
+      "keywords": ["contact", "admission office", "phone", "email", "address", "reach", "helpline"],
+      "source_id": "SRC001",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "ADM005",
+      "category": "Admissions",
+      "question": "Is there a management quota for admissions?",
+      "answer": "Yes, Greenfield College has a Management Quota (up to 15% of total seats) as approved by the state government and AICTE. Management quota admissions are conducted separately through the college management and require direct application to the Principal's office. Merit and eligibility criteria still apply. Management quota fee structure may differ from the regular fee structure. For details, contact the Principal's office at principal@greenfieldcollege.edu.",
+      "keywords": ["management quota", "NRI quota", "direct admission", "seats", "management"],
+      "source_id": "SRC001",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "CRS001",
+      "category": "Courses",
+      "question": "What undergraduate courses are offered?",
+      "answer": "Greenfield College offers the following B.E./B.Tech programs (4 years): (1) Computer Science and Engineering (CSE), (2) Electronics and Communication Engineering (ECE), (3) Mechanical Engineering (ME), (4) Civil Engineering (CE), (5) Electrical and Electronics Engineering (EEE), (6) Information Technology (IT), (7) Artificial Intelligence and Data Science (AIDS). Also offered: B.Sc. programs (3 years) in Physics, Chemistry, Mathematics, and Computer Science. All programs are approved by AICTE and affiliated with the State University.",
+      "keywords": ["courses", "undergraduate", "programs", "B.Tech", "B.E.", "departments", "branches", "what courses", "available courses"],
+      "source_id": "SRC002",
+      "last_verified": "2025-01-12"
+    },
+    {
+      "id": "CRS002",
+      "category": "Courses",
+      "question": "What postgraduate courses are available?",
+      "answer": "Greenfield College offers the following M.E./M.Tech programs (2 years): (1) Computer Science and Engineering, (2) VLSI Design (ECE), (3) Structural Engineering (Civil), (4) Manufacturing Engineering (Mechanical). Also offered: M.Sc. in Mathematics, Physics, and Computer Science. MBA Program (2 years) specialising in Marketing, Finance, HR, and Operations. All PG programs require a relevant UG degree with minimum 50% aggregate. Apply at: pg-admissions.greenfieldcollege.edu.",
+      "keywords": ["postgraduate", "PG", "M.Tech", "M.E.", "MBA", "masters", "graduate programs"],
+      "source_id": "SRC002",
+      "last_verified": "2025-01-12"
+    },
+    {
+      "id": "CRS003",
+      "category": "Courses",
+      "question": "What is the duration of B.Tech programs?",
+      "answer": "B.Tech / B.E. programs at Greenfield College are 4 years in duration, structured as 8 semesters. Each semester is approximately 18 weeks. The curriculum includes theory subjects, laboratory work, mini projects, and a final-year major project. Industry internships are mandatory in the 6th semester (12 weeks minimum). The credit system follows the Choice Based Credit System (CBCS) as per university norms.",
+      "keywords": ["duration", "how many years", "B.Tech", "semesters", "years", "CBCS"],
+      "source_id": "SRC002",
+      "last_verified": "2025-01-12"
+    },
+    {
+      "id": "CRS004",
+      "category": "Courses",
+      "question": "Are there any diploma or certificate courses?",
+      "answer": "Yes, Greenfield College offers the following short-term programs: (1) Diploma in Computer Applications (1 year), (2) Certificate in Web Development (6 months), (3) Certificate in Data Analytics (6 months), (4) Certificate in Digital Marketing (3 months), (5) Certificate in Cybersecurity Fundamentals (3 months). These programs are open to students with 10+2 qualification or equivalent. Apply at: programs.greenfieldcollege.edu.",
+      "keywords": ["diploma", "certificate", "short term", "courses", "six months", "one year"],
+      "source_id": "SRC002",
+      "last_verified": "2025-01-12"
+    },
+    {
+      "id": "FEE001",
+      "category": "Fees",
+      "question": "What is the fee structure for B.Tech programs?",
+      "answer": "B.Tech Annual Tuition Fees (2025–26): CSE / IT / AIDS: ₹1,20,000 per year | ECE / EEE: ₹1,10,000 per year | ME / CE: ₹1,00,000 per year. Other mandatory fees (one-time at admission): Registration Fee: ₹2,000 | Caution Deposit (refundable): ₹5,000. Semester fees (per semester): Examination Fee: ₹1,500 | Lab Fee: ₹3,000 | Library Fee: ₹1,000. Hostel and transport fees are separate. Fee may be revised annually by the Fee Regulation Committee.",
+      "keywords": ["fee", "fees", "tuition fee", "B.Tech fee", "cost", "how much", "price", "amount"],
+      "source_id": "SRC003",
+      "last_verified": "2025-01-08"
+    },
+    {
+      "id": "FEE002",
+      "category": "Fees",
+      "question": "What are the hostel fees?",
+      "answer": "Hostel Fees (2025–26) per year: Room Types: 4-sharing: ₹40,000 | 2-sharing: ₹55,000 | Single occupancy: ₹75,000. All fees include mess charges (3 meals/day). Additional charges: Security Deposit (refundable): ₹5,000 | Electricity (actual consumption): approx ₹1,500–₹3,000/year. Hostel admission is based on distance from home (priority to students from >50 km). Apply at: hostel.greenfieldcollege.edu.",
+      "keywords": ["hostel", "accommodation", "room", "mess", "boarding", "stay", "hostel fee", "hostel charges"],
+      "source_id": "SRC003",
+      "last_verified": "2025-01-08"
+    },
+    {
+      "id": "FEE003",
+      "category": "Fees",
+      "question": "What is the fee payment procedure?",
+      "answer": "Fees can be paid through the following modes: (1) Online via Student Portal at fees.greenfieldcollege.edu (Net Banking, UPI, Credit/Debit Card), (2) Demand Draft in favour of 'The Principal, Greenfield College of Technology & Sciences', payable at [City], (3) NEFT/RTGS to college bank account (details available at finance office). Fee receipts are generated automatically for online payments. Installment facility available for government bank loans (SBI, Bank of Baroda). No cash payments accepted for amounts above ₹10,000.",
+      "keywords": ["fee payment", "pay fees", "how to pay", "online payment", "demand draft", "installment", "payment procedure"],
+      "source_id": "SRC003",
+      "last_verified": "2025-01-08"
+    },
+    {
+      "id": "SCH001",
+      "category": "Scholarships",
+      "question": "What scholarships are available for students?",
+      "answer": "Greenfield College offers and facilitates the following scholarships: (1) Government Scholarships: Post Matric Scholarship (SC/ST/OBC), National Scholarship Portal (NSP) schemes. (2) Institution Scholarships: Merit Scholarship (top 5% of each batch – 50% fee waiver), Sports Scholarship (state/national level athletes – 25–50% fee waiver), Special Merit Scholarship (rank holders in JEE/NEET – up to 100% tuition waiver). (3) External Scholarships: Tata Trust, Reliance Foundation, Akhila India Technical Education Loan Scheme. Apply at: scholarships.greenfieldcollege.edu.",
+      "keywords": ["scholarship", "financial aid", "fee waiver", "merit scholarship", "SC ST OBC scholarship", "free education", "government scholarship"],
+      "source_id": "SRC004",
+      "last_verified": "2025-01-05"
+    },
+    {
+      "id": "SCH002",
+      "category": "Scholarships",
+      "question": "How do I apply for a scholarship?",
+      "answer": "Scholarship Application Process: (1) Visit scholarships.greenfieldcollege.edu. (2) Create or login to your student account. (3) Select the appropriate scholarship scheme. (4) Upload required documents: Mark sheets, Income certificate, Caste certificate (if applicable), Bank account details (passbook copy), Aadhar card. (5) Submit before the deadline. (6) Track status through the portal. For government scholarships, registration on the National Scholarship Portal (scholarships.gov.in) is also required. Contact: scholarships@greenfieldcollege.edu.",
+      "keywords": ["apply scholarship", "scholarship application", "how to apply scholarship", "NSP", "national scholarship portal"],
+      "source_id": "SRC004",
+      "last_verified": "2025-01-05"
+    },
+    {
+      "id": "SCH003",
+      "category": "Scholarships",
+      "question": "What is the merit scholarship criteria?",
+      "answer": "Merit Scholarship Eligibility: Students who secure top 5% marks in each department at the end of Semester 1 and Semester 2 are eligible. The scholarship provides a 50% waiver on tuition fees for the following year. Conditions: No active arrear (backlog) subjects, minimum attendance of 75%, continuation of academic performance. Students who maintain the merit rank for all 4 years receive a Certificate of Academic Excellence at graduation. Apply annually through the scholarship portal.",
+      "keywords": ["merit scholarship", "top student", "rank", "criteria", "eligibility", "academic excellence"],
+      "source_id": "SRC004",
+      "last_verified": "2025-01-05"
+    },
+    {
+      "id": "LIB001",
+      "category": "Library",
+      "question": "What are the library timings?",
+      "answer": "Central Library Timings: Monday to Friday: 8:00 AM – 8:00 PM | Saturday: 9:00 AM – 5:00 PM | Sunday: 10:00 AM – 2:00 PM (Reference section only) | Exam periods: Extended hours till 10:00 PM (announced separately). Digital Library Portal (24/7): library.greenfieldcollege.edu. Library is closed on national holidays and college annual holidays (refer to academic calendar).",
+      "keywords": ["library", "library timings", "library hours", "open time", "library open", "when is library open"],
+      "source_id": "SRC005",
+      "last_verified": "2025-01-14"
+    },
+    {
+      "id": "LIB002",
+      "category": "Library",
+      "question": "How many books can I borrow from the library?",
+      "answer": "Library Borrowing Policy: UG Students: 3 books at a time, for 14 days | PG Students: 5 books at a time, for 21 days | Faculty: 10 books at a time, for 30 days. Renewals: Books can be renewed once online if not reserved by another user. Fine for late returns: ₹2 per book per day after the due date. Reference books, journals, and project reports cannot be issued (reading room only). Use your Student ID card to borrow books.",
+      "keywords": ["borrow", "issue books", "library books", "how many books", "library card", "borrowing limit"],
+      "source_id": "SRC005",
+      "last_verified": "2025-01-14"
+    },
+    {
+      "id": "LIB003",
+      "category": "Library",
+      "question": "What digital resources does the library provide?",
+      "answer": "The Central Library provides access to: (1) IEEE Xplore Digital Library (engineering journals and conference papers), (2) Springer Link (science and technology books/journals), (3) NPTEL Video Lectures (via National Programme on Technology Enhanced Learning), (4) DELNET Database (inter-library loan network), (5) INFLIBNET N-LIST (access to 97,000+ e-books and 6,000+ e-journals for UG students), (6) College digital repository of past project reports and dissertations. Access is available on-campus. Remote access available via VPN for registered users. Visit: library.greenfieldcollege.edu.",
+      "keywords": ["digital library", "e-books", "e-journals", "IEEE", "Springer", "NPTEL", "online resources", "database"],
+      "source_id": "SRC005",
+      "last_verified": "2025-01-14"
+    },
+    {
+      "id": "CAM001",
+      "category": "Campus Facilities",
+      "question": "What sports facilities are available on campus?",
+      "answer": "Greenfield College Sports Facilities: Outdoor: Cricket ground (full-sized), Football field, Basketball courts (2), Volleyball courts (2), Badminton courts (4, outdoor), Tennis court (1), 400m running track. Indoor: Gymnasium / Fitness centre (separate male and female sections), Table tennis, Chess and carrom rooms, Indoor badminton hall (4 courts). The college has a full-time sports director and coaches for cricket, football, and athletics. Annual Sports Day is held in January. For booking: sports@greenfieldcollege.edu.",
+      "keywords": ["sports", "facilities", "cricket", "football", "basketball", "gym", "gymnasium", "playground", "sports ground"],
+      "source_id": "SRC006",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "CAM002",
+      "category": "Campus Facilities",
+      "question": "Is there a canteen or food court on campus?",
+      "answer": "Greenfield College has two food facilities: (1) Main Cafeteria (Ground Floor, Student Centre): Serves breakfast (7:30 AM – 9:30 AM), lunch (12:00 PM – 2:30 PM), and dinner (7:00 PM – 9:00 PM). Veg and non-veg options available. Subsidised rates for students. (2) Juice & Snacks Corner (near Engineering Block): Open 8:00 AM – 6:00 PM, Monday to Saturday. The canteen is managed by a licensed contractor under the college's food safety standards. Special dietary requirements (Jain, Halal) can be arranged on request.",
+      "keywords": ["canteen", "cafeteria", "food", "mess", "eat", "restaurant", "snacks", "lunch", "dinner", "breakfast"],
+      "source_id": "SRC006",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "CAM003",
+      "category": "Campus Facilities",
+      "question": "Is there a medical facility on campus?",
+      "answer": "Yes. Greenfield College has a Medical Centre located adjacent to the Main Administrative Block. Services: A qualified doctor is available Monday–Saturday, 9:00 AM – 5:00 PM. A nurse is on duty 24/7 in the hostel medical room. First aid facilities are available at all hostels. Ambulance on call for emergencies (campus security: +91-44-2800-9999). Medical insurance: All enrolled students are covered by the Group Health Insurance Scheme (details at health@greenfieldcollege.edu). The nearest government hospital is City Government Hospital, 2 km from campus.",
+      "keywords": ["medical", "health", "hospital", "doctor", "nurse", "ambulance", "first aid", "medical centre", "clinic"],
+      "source_id": "SRC006",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "CAM004",
+      "category": "Campus Facilities",
+      "question": "Is WiFi available on campus?",
+      "answer": "Yes. Greenfield College provides high-speed WiFi across the entire campus through NKN (National Knowledge Network) connectivity. Coverage: All academic buildings, library, hostels, and common areas. Speed: 1 Gbps shared bandwidth. Students receive WiFi credentials after fee payment and registration. Usage policy: Students must abide by the IT Usage Policy (available at it.greenfieldcollege.edu). Misuse including unauthorized access or illegal downloads may result in disciplinary action. For IT support: it-support@greenfieldcollege.edu or helpdesk Room 005, IT Block.",
+      "keywords": ["wifi", "internet", "network", "connectivity", "broadband", "internet access"],
+      "source_id": "SRC006",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "CAM005",
+      "category": "Campus Facilities",
+      "question": "Are there transport facilities for day scholars?",
+      "answer": "Greenfield College provides bus transport for day scholars from major points in the city. Routes available (2025–26): Route 1 – City Centre to College (via North Zone), Route 2 – East Zone (Suburbs), Route 3 – South Zone, Route 4 – West Zone (Industrial Area). Bus timings: Morning pick-up around 7:30 AM, Evening drop around 6:00 PM. Annual bus pass fee: ₹15,000 – ₹22,000 depending on distance. Apply for transport: transport.greenfieldcollege.edu | Contact: transport@greenfieldcollege.edu.",
+      "keywords": ["transport", "bus", "travel", "commute", "bus route", "bus pass", "day scholar", "van"],
+      "source_id": "SRC006",
+      "last_verified": "2025-01-10"
+    },
+    {
+      "id": "EXM001",
+      "category": "Examinations",
+      "question": "What is the examination pattern for B.Tech?",
+      "answer": "B.Tech Examination Pattern: Internal Assessment (30 marks): 2 Internal Assessment tests per semester (15 marks each), best of 2 counted. Lab record submission and viva (10 marks per lab). University Semester Examinations (70 marks): 3-hour written exam conducted by the affiliating university. Passing criteria: Minimum 50% in internal + external combined (35 out of 70 externally, 15 out of 30 internally). CGPA system used for grading (scale: 0–10). Grace marks applicable as per university norms.",
+      "keywords": ["examination", "exam pattern", "marks", "internal", "external", "CGPA", "grading", "passing marks"],
+      "source_id": "SRC007",
+      "last_verified": "2025-01-12"
+    },
+    {
+      "id": "EXM002",
+      "category": "Examinations",
+      "question": "What is the minimum attendance required?",
+      "answer": "As per university regulations and AICTE norms, students must maintain a minimum of 75% attendance in each subject per semester to be eligible for the semester examination. Students with attendance between 65–74% may be condoned by the Principal on medical or genuine grounds with supporting documents. Students below 65% attendance are NOT eligible to appear for the semester exam and must repeat the semester. Attendance is tracked through biometric attendance system and is updated weekly on the student portal.",
+      "keywords": ["attendance", "minimum attendance", "75 percent", "condonation", "attendance percentage", "biometric"],
+      "source_id": "SRC007",
+      "last_verified": "2025-01-12"
+    },
+    {
+      "id": "PLC001",
+      "category": "Placements",
+      "question": "What is the placement record of the college?",
+      "answer": "Greenfield College Placement Statistics (2024 Batch): Total students placed: 487 out of 612 eligible (79.6% placement rate). Average package: ₹6.8 LPA. Highest package: ₹28.5 LPA (International offer – Amazon). Top recruiters: TCS, Infosys, Wipro, HCL, Cognizant, Zoho, L&T, Capgemini, Accenture, Amazon, Flipkart. Core companies recruited for ME/EEE/Civil: L&T, BHEL, Bosch, TVS. The Training and Placement (T&P) cell conducts pre-placement training throughout the academic year. Visit: placements.greenfieldcollege.edu.",
+      "keywords": ["placement", "job", "campus recruitment", "package", "salary", "companies", "recruiters", "placement record", "LPA"],
+      "source_id": "SRC008",
+      "last_verified": "2025-01-13"
+    },
+    {
+      "id": "PLC002",
+      "category": "Placements",
+      "question": "How does the placement process work?",
+      "answer": "Placement Process at Greenfield College: (1) Registration: Students register with the T&P cell in Semester 7 (via t-p.greenfieldcollege.edu). (2) Pre-placement training: Aptitude, technical, and HR interview preparation (Semesters 5–7). (3) Company shortlisting: Companies visit based on branch, CGPA, and skill requirements. (4) Rounds: Aptitude test → Technical interview → HR interview (process varies by company). (5) Offer letter: Released by the company directly, with T&P cell notification. Note: Students with active arrears may be restricted by some companies. Contact: placement@greenfieldcollege.edu.",
+      "keywords": ["placement process", "how placements work", "interview", "registration T&P", "offer letter"],
+      "source_id": "SRC008",
+      "last_verified": "2025-01-13"
+    },
+    {
+      "id": "GEN001",
+      "category": "General",
+      "question": "What is the college address?",
+      "answer": "Greenfield College of Technology & Sciences, Greenfield Nagar, City – 600001, Tamil Nadu, India. Nearest landmark: Greenfield Metro Station (500m). Google Maps: maps.greenfieldcollege.edu. Phone: +91-44-2800-1234 | Toll-free: 1800-XXX-XXXX | Email: info@greenfieldcollege.edu.",
+      "keywords": ["address", "location", "where is college", "campus address", "how to reach"],
+      "source_id": "SRC009",
+      "last_verified": "2025-01-15"
+    },
+    {
+      "id": "GEN002",
+      "category": "General",
+      "question": "Is the college AICTE approved?",
+      "answer": "Yes. Greenfield College of Technology & Sciences is approved by the All India Council for Technical Education (AICTE), New Delhi. Approval reference: AICTE Approval No. GC/AICTE/2005/001. The college is also accredited by the National Board of Accreditation (NBA) for CSE, ECE, and ME departments. The college is affiliated with [State Technical University] as per AICTE norms. The accreditation and approval certificates are displayed in the Administrative Block and available at: about.greenfieldcollege.edu.",
+      "keywords": ["AICTE", "approved", "accreditation", "NBA", "affiliated", "university", "recognition"],
+      "source_id": "SRC009",
+      "last_verified": "2025-01-15"
+    },
+    {
+      "id": "GEN003",
+      "category": "General",
+      "question": "What is the academic calendar?",
+      "answer": "Academic Calendar 2025–26 Key Dates: Odd Semester (Aug–Dec 2025): Commencement: Aug 1, 2025 | Internal Assessment 1: Sep 15–20, 2025 | Internal Assessment 2: Oct 27 – Nov 1, 2025 | Study Holidays: Nov 15–24, 2025 | Semester Exams: Nov 25, 2025 onwards. Even Semester (Jan–May 2026): Commencement: Jan 5, 2026 | Internal Assessment 1: Feb 16–21, 2026 | Internal Assessment 2: Mar 30 – Apr 4, 2026 | Study Holidays: Apr 18–27, 2026 | Semester Exams: Apr 28, 2026 onwards. Full calendar available at: academic.greenfieldcollege.edu.",
+      "keywords": ["academic calendar", "semester dates", "exam dates", "holiday list", "schedule", "academic year"],
+      "source_id": "SRC009",
+      "last_verified": "2025-01-15"
+    }
+  ]
+}
